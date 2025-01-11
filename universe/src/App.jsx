@@ -9,10 +9,12 @@ import ListofWishes from './components/ListofWishes'
 
 function App() {
   const [count, setCount] = useState(0)
+  
 
   return (
     <>
-     <ListofWishes/>
+    
+    <ListofWishes/>
     
     </>
   )
